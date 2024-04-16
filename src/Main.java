@@ -60,4 +60,21 @@ public class Main {
 
 		return total;
 	}
+	
+	public static double restar2(double numero1, double numero2) {
+
+		double total = 0;
+
+		total = numero1-numero2;
+
+		return total;
+	}
+	public static double dividir2(double numero1, double numero2) {
+
+		double total = 0;
+
+		total = numero1/numero2;
+
+		return total;
+	}
 }
