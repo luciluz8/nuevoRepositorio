@@ -29,6 +29,7 @@ public class Main {
 				double numeroMult2 = sn.nextDouble();
 				double totalMult = Main.sumar2(numeroMult1, numeroMult2);
 				System.out.println("La suma total de sus números es:" + totalMult);
+				System.out.println("Hola");
 
 			}
 
